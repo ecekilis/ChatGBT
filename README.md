@@ -1,23 +1,22 @@
-# ChatGPT Klonu
+# ChatGPT Clone
 
-Bu proje, API istekleri ve şık, etkileşimli bir kullanıcı deneyimi için animasyonlar içeren bir ChatGPT klonudur.
+This project is a clone of ChatGPT, featuring API requests and animations for a sleek, interactive user experience.
 
-## Özellikler
+## Features
 
-- **API İstekleri**: Gerçek zamanlı istekleri ve yanıtları işlemek için bir arka uç API'siyle entegre olur.
-- **Animasyonlar**: Kullanıcı etkileşimini ve genel görsel çekiciliği iyileştirmek için akıcı animasyonlar uygulanır.
+- **API Requests**: Integrates with a backend API to handle real-time requests and responses.
+- **Animations**: Smooth animations are applied to enhance user interaction and the overall visual appeal.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **API Entegrasyonu**
-
+- **API Integration**
 
 ## Preview
 
-![](chatgbt.gif)
+![ChatGPT Clone Preview](chatgpt.gif)
 
 
-# ChatGBT
+
