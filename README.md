@@ -16,7 +16,7 @@ This project is a clone of ChatGPT, featuring API requests and animations for a 
 
 ## Preview
 
-![](chatgpt.gif)
+![](chatgbt.gif)
 
 
 
